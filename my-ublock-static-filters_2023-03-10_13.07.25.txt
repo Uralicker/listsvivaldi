@@ -1048,17 +1048,9 @@ m.ridus.ru##.bcontainer_300
 ! 2023-01-27 https://5terka.com
 5terka.com##.share
 5terka.com##.page-left-sidebar.sidebar-wrap.sidebar
-
-! 2023-01-29 https://txtsong.ru
 txtsong.ru##.yandex-post
-
-! 2023-01-31 https://www.citypopulation.de
 www.citypopulation.de##.mobiadv
-
-! 2023-02-01 https://www.krossvordskanvord.com
-www.krossvordskanvord.com##div.ad-container.\31 2u
-
-! 2023-02-09 https://animalia.bio
+www.krossvordskanvord.com##div.ad-container.\31
 animalia.bio##.mob_banner
 www.deviantart.com##._3REiN
 slate.com###cxense-recs-in-article
@@ -1068,4 +1060,21 @@ dzen.ru##.article-mobile__bottom-embed
 population-pyramid.net###ppad
 population-pyramid.net###adinlist
 population-pyramid.net###adfoot
-
+lightaudio.ru##.rbt_btn
+dzen.ru##.gf0qI6cWQvQirlYAxnaa3Dr6y0D43rmjr4DWL7obG.gWlWD5sDZ8xqxntgvj6k.card-wrapersome._theme_white._is-mobile-redesign._is-mobile.card-wrapper
+dzen.ru##.gQVTA9NSYaQ_un5g_nq8_platform_direct.gQVTA9NSYaQ_un5g_nq8_color_white.gQVTA9NSYaQ_un5g_nq8_position_inner.gQVTA9NSYaQ_un5g_nq8
+dzen.ru##.gQVTA9NSYaQ_un5g_nq8_platform_direct.gQVTA9NSYaQ_un5g_nq8_color_white.gQVTA9NSYaQ_un5g_nq8_position_bottom.gQVTA9NSYaQ_un5g_nq8
+dzen.ru##.article-render-mobile__embed_embed-type_yandex-direct.article-render-mobile__embed
+dzen.ru##.article-mobile__bottom-embed
+www.autonews.ru##.app-link
+dzen.ru##.nKjqglZEdBTh3PJWdq9RmZCQ09BYDttpdIYcwlVr9.nDyWrmpRUSyptN82Du5s.card-wrapersome._theme_white._is-mobile-redesign._is-mobile.card-wrapper
+worldoffloweringplants.com##.bottom.swp_floating_horizontal_wrapper.nc_wrapper
+worldoffloweringplants.com##.elementor-widget-smartmag-codes.elementor-widget.elementor-element-3c17f2f3.elementor-element
+helpiks.org###yandex_rtb_R-A-2162606-1
+dzen.ru###avIXfZt
+yandex.ru##.DistrSmartbanner_type_default.DistrSmartbanner_size_m.DistrSmartbanner
+academic.ru##.ad_mobile_top2
+academic.ru##.h250.banner
+safebooru.org##.tips
+lurkmore.wtf###siteNotice
+lurkmore.wtf###wikisharetoolbar
