@@ -1003,49 +1003,21 @@ www.evolbiol.ru##td.tdContent:nth-of-type(1) > div.indexblock:nth-of-type(4) > h
 
 ! 2023-01-15 https://omniglot.com
 omniglot.com##p:nth-of-type(13)
-
-! 2023-01-15 https://www.cntraveler.com
 www.cntraveler.com##.mao.should-hold-space.ad-stickyhero-enable-mobile.ad-stickyhero--standard.eNZkRk.StickyHeroAdWrapper-kvmDZX
-
-! 2023-01-15 https://www.kino-teatr.ru
 www.kino-teatr.ru##div.horisont_block:nth-of-type(1) > div:nth-of-type(2) > div
-
-! 2023-01-15 https://www.forbes.ru
 www.forbes.ru##._2n-ZX
-
-! 2023-01-15 https://citaty.info
 citaty.info##div.ads_underline.ads_b.ads_horizontal.ads
-
-! 2023-01-17 https://www.pixiv.net
 www.pixiv.net##.banner-ad-footer-scale
-
-! 2023-01-17 https://www.chem21.info
 www.chem21.info##.resize
-
-! 2023-01-18 https://lightaudio.ru
 lightaudio.ru##.rbt_btn
-
-! 2023-01-19 https://typejournal.ru
 typejournal.ru##svg
-
-! 2023-01-20 https://www.livescience.com
 www.livescience.com##.related-articles-block
-
-! 2023-01-21 https://lightaudio.ru
 lightaudio.ru##.___adv-banner
-
-! 2023-01-22 https://solovey.su
 solovey.su##.ad.player-container
 solovey.su##.ht.adv-container
-
-! 2023-01-23 https://web.ligaudio.ru
 web.ligaudio.ru##.rbt_btn
 web.ligaudio.ru###DBmobileVideoInreadContainer
-
-! 2023-01-26 https://m.ridus.ru
 m.ridus.ru##.bcontainer_300
-
-! 2023-01-27 https://5terka.com
 5terka.com##.share
 5terka.com##.page-left-sidebar.sidebar-wrap.sidebar
 txtsong.ru##.yandex-post
@@ -1078,3 +1050,7 @@ academic.ru##.h250.banner
 safebooru.org##.tips
 lurkmore.wtf###siteNotice
 lurkmore.wtf###wikisharetoolbar
+www.wallpapermaiden.com##div.wallpaperBg:nth-of-type(2)
+www.wallpapermaiden.com##div.wallpaperBg:nth-of-type(13)
+lightaudio.ru##.rbt_btn
+lightaudio.ru###DBmobileVideoInreadContainer
