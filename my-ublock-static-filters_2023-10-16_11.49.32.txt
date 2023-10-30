@@ -998,3 +998,6 @@ fanfics.me###inform_top_adaptive
 www.vidal.ru##.yad
 knowyourmeme.com##.ad-unit-wrapper
 knowyourmeme.com##.ad-unit-label
+knowyourmeme.com##.ad-unit-label
+knowyourmeme.com##.content-unit-wrapper
+knowyourmeme.com###anyclip
