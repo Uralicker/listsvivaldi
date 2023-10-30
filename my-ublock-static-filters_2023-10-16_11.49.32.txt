@@ -997,4 +997,4 @@ www.wearethepit.com###wearethepit_inarticle_41658543645
 fanfics.me###inform_top_adaptive
 www.vidal.ru##.yad
 knowyourmeme.com##.ad-unit-wrapper
-
+knowyourmeme.com##.ad-unit-label
