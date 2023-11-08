@@ -1,4 +1,8 @@
 posmotre.ch##.donate
+revolvermag.com##.full-ad-wrapper.small-margin-bottom-inherit.m-bottom-40
+www.fantasynamegenerators.com###shareGen > p
+www.fantasynamegenerators.com##.addthis_button_facebook
+www.fantasynamegenerators.com##.addthis_button_twitter
 genius.com##.bmgXAs.PrimisPlayer__InreadContainer-sc-1tvdtf7-0.duLgkj.InreadContainer__Container-sc-19040w5-0
 genius.com##.jOQIdE.StickyBannerAd__Container-sc-1sit2mp-0
 mrakopedia.net###war-notice2
