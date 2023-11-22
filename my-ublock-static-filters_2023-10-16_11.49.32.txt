@@ -1,11 +1,4 @@
 posmotre.ch##.donate
-dzen.ru##.etWfT9ffvldgwTYKrm0g_color_white.etWfT9ffvldgwTYKrm0g_position_articleBottom.etWfT9ffvldgwTYKrm0g
-revolvermag.com##.full-ad-wrapper.small-margin-bottom-inherit.m-bottom-40
-www.fantasynamegenerators.com###shareGen > p
-www.fantasynamegenerators.com##.addthis_button_facebook
-www.fantasynamegenerators.com##.addthis_button_twitter
-genius.com##.bmgXAs.PrimisPlayer__InreadContainer-sc-1tvdtf7-0.duLgkj.InreadContainer__Container-sc-19040w5-0
-genius.com##.jOQIdE.StickyBannerAd__Container-sc-1sit2mp-0
 mrakopedia.net###war-notice2
 www.nehudlit.ru##.block-425zrx9ke3ula-block__items-wrapper
 www.nehudlit.ru###reklama-top
@@ -240,8 +233,6 @@ yandex.com##body > .VanillaReact
 euro-provodnik.ru###text-11
 euro-provodnik.ru###text-12
 tonkosti.ru##.sys-pwd__mobile-spacer
-genius.com##.hswpWB.PrimisPlayer__InreadContainer-sc-1tvdtf7-0.duLgkj.InreadContainer__Container-sc-19040w5-0
-genius.com###lyrics-root > .duLgkj.InreadContainer__Container-sc-19040w5-0
 ||wikiway.com/partners/af/d/r/b1dc.php$subdocument
 wikiway.com##.nad-footer-ad
 ||obuchalka.org/rifr/slot/12$subdocument
@@ -587,11 +578,11 @@ www.axios.com##.justify-center.flex.sm\:pb-8.md\:pt-10.sm\:pt-15.xs\:pb-8.xs\:pt
 www.axios.com##.mb-6.border-accent-blue-tint.border-b-\[1px\].pb-6.block
 www.axios.com##.div.last\:border-b-0.border-accent-blue-tint.border-b.up-to-lg\:overflow-hidden.md\:mb-10.mb-6.justify-center.grid.shortFormNativeAd.gtmVie
 www.deviantart.com##.jdrIC
-m.ura.news##div.item-share
-m.ura.news##.adfox_placeholder
+ura.news##div.item-share
+ura.news##.adfox_placeholder
 edu-potential.ru###gkSocialAPI
 edu-potential.ru##div.gkmod-2.box:nth-of-type(2) > .content > .custom > p:nth-of-type(5)
-www.reddit.com##.NavFrame > .m-consolidate.XPromoBottomBar
+reddit.com##.NavFrame > .m-consolidate.XPromoBottomBar
 www.tampermonkey.net##.advent_head
 faunist.ru##aside.widget:nth-of-type(3)
 floristics.info##.uk-row-first.uk-width-1-1 > div.uk-panel-box.uk-panel:nth-of-type(2)
@@ -657,7 +648,7 @@ www.zr.ru##.banner-wrapper
 pesni.guru##.ads_block
 www.architecturaldigest.com##div.row-mid-content-ad.full-bleed-ad.eZogKe.RowWrapper-efYgwM
 primpress.ru#@#a[href*="news"][href*="favid"]
-www.reddit.com##shreddit-async-loader:nth-of-type(2)
+reddit.com##shreddit-async-loader:nth-of-type(2)
 dorogi-ne-dorogi.ru##.b-r--after_p_1.b-r--mob.b-r
 dorogi-ne-dorogi.ru##.b-r--after_p_2.b-r--mob.b-r
 dorogi-ne-dorogi.ru##.b-r--after_p_3.b-r--mob.b-r
@@ -670,7 +661,7 @@ yandex.ru##div.Advert_relativeLoaded__3ffEg.hLLk4ahvXBsj3zphtj7w__3BCzV
 mirtesen.ru##.blog-post__text-ad
 mirtesen.ru##.sportrecs
 mirtesen.ru##.main-ad.topic-block
-m.market.yandex.ru##._34nsw.XU9Ee
+yandex.ru##._34nsw.XU9Ee
 imgur.io##.undefined.Assembly.sas.Ad
 schlock.ru###rtbSide
 www.reuters.com##.article-prompt__text-content__1w7vZ
@@ -754,11 +745,11 @@ www.admagazine.ru##.daPuDc.MessageBannerWrapper-fyfxvu
 www.worldatlas.com##.ad_push.mod_ad_container
 bstudy.net##.advtop.advconts
 www.androidpolice.com##.adsninja-ad-zone
-lurkmore.pro##.wikishare_default_style.wikishare_toolbox
+lurkmore.gay##.wikishare_default_style.wikishare_toolbox
 www.nme.com##.stretch_row.tdc-row
 www.nme.com##.id_ad_content
 www.nme.com###tdi_107
-deviantart.com##._2XOk-
+www.deviantart.com##._2XOk-
 www.ventusky.com###header > .ii
 www.marinetraffic.com##.underMapAdMobile
 unsplash.com##.hkyQA.kvioN > .oh0KJ.ruKGA.MysZj > li.XQY_2 > ._aJTq.m_sUX.vZKGD
@@ -803,8 +794,8 @@ yandex.ru##.DistrSmartbanner_type_default.DistrSmartbanner_size_m.DistrSmartbann
 academic.ru##.ad_mobile_top2
 academic.ru##.h250.banner
 safebooru.org##.tips
-lurkmore.pro###siteNotice
-lurkmore.pro###wikisharetoolbar
+lurkmore.gay###siteNotice
+lurkmore.gay###wikisharetoolbar
 m.economictimes.com##._1naTd._3a_HT
 105-games.ru##.credit-card-grid
 gothic.ru##.bannerTop > tbody
@@ -901,7 +892,7 @@ loudwire.com###site-menu-wrapper > .tsm-ad-320.tsm-ad
 loudwire.com##.sticky.bignsexy.social-share
 loudwire.com##div.gallery-ad-lazyload-placeholder.lazyload-placeholder
 @@||tfwiki.net/mediawiki/images2/4/44/Sidebar_header_ad_text.png$1p
-www.reddit.com##.m-active.XPromoPopupRpl
+reddit.com##.m-active.XPromoPopupRpl
 www.iafd.com###topadzone
 aminoapps.com##.ad-block-container-mobile
 popname.ru###\%ED\%EE\%F0\%EC\%E0\%EB\%FC\%ED\%FB\%E9\+\%F7\%E5\%EB\%EE\%E2\%E5\%EA
@@ -955,7 +946,7 @@ www.wallpapermaiden.com##div.wallpaperBg:nth-of-type(13)
 chat.ru##.rek0 > div.block:nth-of-type(3)
 chat.ru##div.block:nth-of-type(4)
 yandex.ru#@#:matches-path(/search).Warning_type_roskomnadzor
-www.deviantart.com##.bfSiS
+deviantart.com##.bfSiS
 lyricstranslate.com##.mobile-only.banner-with-background
 lyricstranslate.com##.mobile-only.song-node-video-banner
 www.techinsider.ru##.article-detail_tag_ad_mobile_video_recommend
@@ -976,11 +967,9 @@ kartaslov.ru##div.v2-p-mob-inarticle-block
 gt-news.ru##.after-author-ads
 gt-news.ru##.widget_custom_html.widget.widget_text
 tvtropes.org##div.mobile_unit_scroll.square_fad.mobile-fad.tvtropes-ad-unit
-genius.com##.i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element.primis_player-iframe
-www.allmusic.com##.promo0.sidebar-promo
+allmusic.com##.promo0.sidebar-promo
 www.azlyrics.com##.text-center.top-ad
-genius.com##.bmgXAs.PrimisPlayer__InreadContainer-sc-1tvdtf7-0.duLgkj.InreadContainer__Container-sc-19040w5-0
-##.adfox_15187057778291589
+iz.ru##.adfox_15187057778291589
 www.thevoicemag.ru##.article-detail_tag_ad_mobile_video_recommend
 m.buro247.ru##.js-header-banner.header-banner
 www.newscientist.com##.MPUMidArticle.AdvertWrapper
@@ -992,10 +981,9 @@ mychords.net##.mcn_ad--bottom20.mcn_ad
 mychords.net##.mcn_ad--top15.mcn_ad
 ngs.ru##.XmulL.Bgux0.PDM4p.iaZSL.Myw1Z
 ngs.ru##.mHSuk
-yandex.ru##div.toJncTFI_inserted_yes.toJncTFI_js_inited.i-bem.toJncTFI_position_page-fixed.toJncTFI_type_direct.toJncTFI
 www.allmusic.com###mobile_review_lb
-##yandex_rtb_R-A-1586298-2
-##yandex_rtb_R-A-1586298-1
+residentname.ru###yandex_rtb_R-A-1586298-2
+residentname.ru###yandex_rtb_R-A-1586298-1
 www.wearethepit.com##.mh-primis-player
 www.wearethepit.com###wearethepit_inarticle_1298190290
 www.wearethepit.com###wearethepit_inarticle_2595970471
@@ -1004,7 +992,43 @@ www.wearethepit.com###wearethepit_inarticle_41658543645
 fanfics.me###inform_top_adaptive
 www.vidal.ru##.yad
 knowyourmeme.com##.ad-unit-wrapper
-knowyourmeme.com##.ad-unit-label
+wday.ru##div.product-set-block-mobile__product.product-set-block-item
 knowyourmeme.com##.ad-unit-label
 knowyourmeme.com##.content-unit-wrapper
 knowyourmeme.com###anyclip
+knowyourmeme.com##div.ad-unit-wrapper
+knowyourmeme.com##.content-unit-wrapper
+thisiscolossal.com##.notblocked
+reverso.net##.more-examples-message
+www.thatsnonsense.com##span > em
+www.thegamer.com##.in-sticky-content.adsninja-ad-zone
+revolvermag.com##.full-ad-wrapper.small-margin-bottom-inherit.m-bottom-40
+www.fantasynamegenerators.com###shareGen > p
+www.fantasynamegenerators.com##.addthis_button_facebook
+www.fantasynamegenerators.com##.addthis_button_twitter
+www.discogs.com##.ads-ad.ads-here.display-ad.ad.ad_1qeN9.ad_top_1GBnA
+www.discogs.com##.ads-ad.ads-here.display-ad.ad.no_desktop_kjFK7.ad_1qeN9.ad_right_2spJU
+www.gamingbible.com##.css-mg9b9w
+www.gamingbible.com##.css-1orq2el
+www.gamingbible.com##.css-r5ztzr-Advert
+www.officialcharts.com##div.bg-design-greige.overflow-x-hidden.py-4.chart-ad.chart-item
+www.rollingstone.com##.c-gallery-vertical__advert
+dzen.ru##.etWfT9ffvldgwTYKrm0g_color_white.etWfT9ffvldgwTYKrm0g_position_articleBottom.etWfT9ffvldgwTYKrm0g
+gelbooru.com##.mainBodyPadding > [href]
+genius.com##.duLgkj.InreadContainer__Container-sc-19040w5-0
+tiermaker.com###tm-anchor-mobile
+mixnews.lv###advads-1974329331
+mixnews.lv###advads-826233529
+www.albumoftheyear.org##.adTagTwo
+www.albumoftheyear.org##.headerAd
+bravewords.com##div.stories-panel.bw-panel.panel:nth-of-type(2)
+bravewords.com##div.stories-panel.bw-panel.panel:nth-of-type(7)
+www.techinsider.ru##.article-detail_tag_content_billboard_mobile
+www.last.fm##.open-ad-container-mobile.full-bleed-ad-container.similar-artists-item-wrap
+www.chosic.com##.ad_incontent
+www.last.fm##.open-ad-container-mobile.visible-xs.full-bleed-ad-container
+www.last.fm##.open-ad-container-mobile.full-bleed-ad-container.resource-list--release-list-item-wrap
+www.novochag.ru##.article-detail_tag_ad_mobile_video_recommend
+www.novochag.ru##div.article-detail_tag_content_billboard_mobile
+yandex.ru##.OHvymK1XRb.u43UYzC8CQ._12Vlb5w0si._1kNO-wILA5._1CAGm9QCcT
+
