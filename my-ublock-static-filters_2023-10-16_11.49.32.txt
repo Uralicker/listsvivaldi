@@ -1006,8 +1006,6 @@ revolvermag.com##.full-ad-wrapper.small-margin-bottom-inherit.m-bottom-40
 www.fantasynamegenerators.com###shareGen > p
 www.fantasynamegenerators.com##.addthis_button_facebook
 www.fantasynamegenerators.com##.addthis_button_twitter
-www.discogs.com##.ads-ad.ads-here.display-ad.ad.ad_1qeN9.ad_top_1GBnA
-www.discogs.com##.ads-ad.ads-here.display-ad.ad.no_desktop_kjFK7.ad_1qeN9.ad_right_2spJU
 www.gamingbible.com##.css-mg9b9w
 www.gamingbible.com##.css-1orq2el
 www.gamingbible.com##.css-r5ztzr-Advert
