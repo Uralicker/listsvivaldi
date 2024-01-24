@@ -1032,3 +1032,27 @@ yandex.ru##.OHvymK1XRb.u43UYzC8CQ._12Vlb5w0si._1kNO-wILA5._1CAGm9QCcT
 a-z-animals.com##.adthrive
 a-z-animals.com##.mb-n1.text-center.font-weight-light
 a-z-animals.com###AdThrive_Content_1_phone
+intrigue.dating##.mob_r_top
+intrigue.dating##.active.popup
+intrigue.dating##.toc-1390
+www.discogs.com##.ads-ad.ads-here.display-ad.ad.sticky_footer.sticky_8060C.ad_1qeN9.ad_bottom_3Oh2o
+fextralife.com##.ad-banner
+fextralife.com###mobile-ad
+fextralife.com##.footer-sticky
+sdamgia.ru##.s8b4dd7bf
+www.last.fm##.visible-xs.page-content.container
+www.last.fm##li.open-ad-container-mobile.big-artist-list-wrap
+www.discogs.com##div.side_3-xID
+www.cnet.com##.c-adSkyBox
+www.last.fm##.open-ad-container-mobile.full-bleed-ad-container
+www.last.fm##.col-sidebar
+www.ultimate-guitar.com##bidding-wrapper
+www.last.fm##.content-top-inner-wrap
+www.last.fm##.mpu-subscription-upsell--mobile_pos_2.mpu-subscription-upsell
+pitchfork.com##.should-hold-space.ad-stickyhero-enable-mobile.ad-stickyhero--standard.ad-stickyhero.gStsdY.StickyHeroAdWrapper-eNLJUc
+pitchfork.com##div.ad-height-hold.fXtswJ.SpaceHolder-oayp
+pitchfork.com##.wide-adrail.narrow.grid-layout--adrail.kLQIUk.PaywallInlineBarrierWithWrapperGrid-fyrGfS.grid-items-2.grid-margins.grid.kHBDeH.GridWrapper-cAzTTK
+lurkmore.pro###siteNotice
+www.wikihow.com##.al_grey.w_label.wh_ad_inner
+doubledouble.top##.totally-not-an-ad > p
+doubledouble.top##.totally-not-an-ad
